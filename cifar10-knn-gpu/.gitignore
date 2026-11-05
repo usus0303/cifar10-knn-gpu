@@ -1,0 +1,20 @@
+# CIFAR-10 raw data (download locally)
+cifar-10-python.tar.gz
+cifar-10-batches-py/
+*.tar.gz
+
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+
+# Local generated predictions can be large; choose explicitly if publishing
+results_full_gpu/test_예측상세.csv
+
+# Secrets
+.env
+.env.*

@@ -1,0 +1,24 @@
+{
+  "folds": 5,
+  "seed": 42,
+  "k": [
+    1,
+    3,
+    5,
+    7,
+    9
+  ],
+  "distances": [
+    "euclidean",
+    "manhattan",
+    "cosine"
+  ],
+  "image_shape": [
+    32,
+    32,
+    3
+  ],
+  "train_count": 50000,
+  "test_count": 10000,
+  "code_version": 1
+}

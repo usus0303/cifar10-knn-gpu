@@ -1,0 +1,2 @@
+﻿distance,k,accuracy,precision,recall,f1
+manhattan,1,0.3859,0.4332592068749969,0.3859,0.3862097794287935
